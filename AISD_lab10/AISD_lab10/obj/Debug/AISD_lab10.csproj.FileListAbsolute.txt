@@ -1,0 +1,10 @@
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\bin\Debug\AISD_lab10.exe.config
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\bin\Debug\AISD_lab10.exe
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\bin\Debug\AISD_lab10.pdb
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.csprojResolveAssemblyReference.cache
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.Form1.resources
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.Properties.Resources.resources
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.csproj.GenerateResource.Cache
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.csproj.CoreCompileInputs.cache
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.exe
+c:\users\saveu\documents\visual studio 2017\Projects\AISD_lab10\AISD_lab10\obj\Debug\AISD_lab10.pdb
